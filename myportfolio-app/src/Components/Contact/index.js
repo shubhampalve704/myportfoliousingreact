@@ -99,7 +99,7 @@ const Contact = () => {
           Pune,411046 <br />
           Maharashtra <br />
           <br />
-          <span>freelancerslobodan@gmail.com</span>
+          <span>shubhampalve704@gmail.com</span>
         </div>
          <div className="map-wrap">
           {/* <MapContainer center={[44.96366, 19.61045]} zoom={13}>
